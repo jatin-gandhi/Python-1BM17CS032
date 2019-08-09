@@ -1,0 +1,33 @@
+1.Different ways of executing python scripts
+	1.Using command-line or terminal
+	  To run Python scripts with the python command, you need to open a command-line and type in the word python, or python3 if you have  		  both versions, followed by the path to your script
+	  
+	2 Using python interactive mode
+	  A widely used way to run Python code is through an interactive session. To start a Python interactive session, just open a command-l 		  line or terminal and then type in python, or python3 depending on your Python installation, and then hit Enter.
+	
+	3.Using IDE or text editor
+	  We can run python scrips using IDEs and advanced text editors.
+
+
+2.Python IDEs and text editors
+	1.PyCharm
+	2.Thonny
+	3.PyDev
+	4.Spyder
+	5.Sublime Text 3
+	 
+
+
+3. Python 2.x vs Pyhton 3.x
+
+	1.print function
+	  This is the most well known change. In this the print function in Python 2.x is replaced by print() function in Python 3.x,i.e, to 		  print in Python 3.x an extra pair of parenthesis is required.
+	
+	2. Unicode
+	  In Python 2, implicit str type is ASCII. But in Python 3.x implicit str type is Unicode.
+
+	3. xrange
+	  xrange() of Python 2.x doesn’t exist in Python 3.x. In Python 2.x, range returns a list i.e. range(3) returns [0, 1, 2] while xrange 		  returns a xrange object i. e., xrange(3) returns iterator object which work similar to Java iterator and generates number when  		  needed.
+
+	4. Division
+	  Integer dividion in 2.x results in integer but in 3.x it may results in float.
